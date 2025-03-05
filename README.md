@@ -1,3 +1,4 @@
+![GIF](https://github.com/letDouglas/letDouglas/blob/main/assets/pacman.gif)
 ```java
 public class WhoAmI {
     private String name = " Damir Douglas";
@@ -60,9 +61,10 @@ public class WhoAmI {
 ![](https://github-readme-stats.vercel.app/api?username=letDouglas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=letDouglas&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=letDouglas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 [![](https://visitcount.itsvg.in/api?id=letDouglas&icon=0&color=0)](https://visitcount.itsvg.in)
+![snake gif](https://github.com/letDouglas/letDouglas/blob/output/github-snake-dark.svg)
+
+
 
 
 
