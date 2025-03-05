@@ -23,8 +23,15 @@ public class WhoAmI {
     }
 }
 ```
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/letDouglas/letDouglas/main/assets/pacman.gif" alt="Pacman GIF">
+    </td>
+  </tr>
+</table>
 
-# 💫 About Me ![Pacman GIF](https://raw.githubusercontent.com/letDouglas/letDouglas/main/assets/pacman.gif)
+# 💫 About Me:
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Back+End+Developer;Tech+Enthusiast;Always+Learning)
 
 👋 Hi there! I'm Damir, a passionate back-end developer with a strong drive to learn and grow in the ever-evolving tech world. My journey is fueled by curiosity and determination to constantly improve my skills.
