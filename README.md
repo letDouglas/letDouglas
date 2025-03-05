@@ -1,10 +1,10 @@
-![GIF](https://github.com/letDouglas/letDouglas/blob/main/assets/pacman.gif)
+![Pacman GIF](https://raw.githubusercontent.com/letDouglas/letDouglas/main/assets/pacman.gif)
 ```java
 public class WhoAmI {
     private String name = " Damir Douglas";
     private String Location = "Como, Italy";
     private String email = "douuglasdamiir@gmail.com";
-    private List<String> tecnologie = new ArrayList<>(Arrays.asList(
+    private List<String> technologies = new ArrayList<>(Arrays.asList(
         "Java",
         "Spring Framework",
         "TypeScript",
