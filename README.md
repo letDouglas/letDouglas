@@ -1,4 +1,6 @@
-![Pacman GIF](https://raw.githubusercontent.com/letDouglas/letDouglas/main/assets/pacman.gif)
+<div align="center">
+    ![Pacman GIF](https://raw.githubusercontent.com/letDouglas/letDouglas/main/assets/pacman.gif)
+</div>
 ```java
 public class WhoAmI {
     private String name = " Damir Douglas";
