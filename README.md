@@ -1,8 +1,8 @@
 ```java
 public class WhoAmI {
-    private String name = " Damir Douglas";
+    private String name = "Damir";
     private String Location = "Como, Italy";
-    private String email = "douuglasdamiir@gmail.com";
+    private String email = "deraindevmor@gmail.com";
     private List<String> technologies = new ArrayList<>(Arrays.asList(
         "Java",
         "Spring Framework",
