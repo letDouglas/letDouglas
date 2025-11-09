@@ -1,28 +1,34 @@
 ```java
 public class WhoAmI {
-    private String name = "Damir";
-    private String Location = "Como, Italy";
-    private String email = "deraindevmor@gmail.com";
-    private List<String> technologies = new ArrayList<>(Arrays.asList(
-        "Java",
-        "Spring Framework",
-        "TypeScript",
-        "Angular"
-    ));
+    private String name = "Damir Douglas";
+    private String location = "Como, Italy 🇮🇹";
+    private String email = "damir.douglas.dev@gmail.com";
+    private String portfolio = "damirdouglas.dev";
     
-    private List<String> hobbies = new ArrayList<>(Arrays.asList(
-        "Astronomy",
-        "Music production",
-        "Electronics",
-        "Soccer",
-        "Powerlifting"
-    ));
+    private List technologies = Arrays.asList(
+        "Java", "Spring Boot", "Microservices",
+        "PostgreSQL", "Docker", "Kafka", "Redis"
+    );
+    
+    private List currentFocus = Arrays.asList(
+        "AI-powered applications",
+        "Event-driven architecture",
+        "Scalable backend systems"
+    );
+    
+    private List hobbies = Arrays.asList(
+        "Astronomy", "Music production", 
+        "Electronics", "Soccer", "Powerlifting"
+    );
     
     public String myAmbition() {
-        return "I'm a dreamer focused on turning my ideas into reality, always ready to grow and take on new challenges.";
+    return "I'm a dreamer focused on turning ideas into reality, " +
+           "always ready to grow and take on new challenges.";
     }
 }
 ```
+
+
 <table align="center">
   <tr>
     <td align="center">
@@ -31,46 +37,59 @@ public class WhoAmI {
   </tr>
 </table>
 
-# 💫 About Me:
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Back+End+Developer;Tech+Enthusiast;Always+Learning)
+# 💫 About Me
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Backend+Developer;Microservices+Architect;Building+AI-Powered+Apps)
 
-👋 Hi there! I'm Damir, a passionate back-end developer with a strong drive to learn and grow in the ever-evolving tech world. My journey is fueled by curiosity and determination to constantly improve my skills.
+👋 Hey! I'm **Damir**, a backend developer specializing in **Java microservices** and **scalable systems**. I build production-ready applications with clean architecture, event-driven design, and security in mind.
 
-💻 **Tech Stack**: I’m excited to work with Spring Framework and Java for back-end development, PostgreSQL for databases, and Angular with TypeScript for the front-end. I’m always eager to learn, improve, and take on new challenges!
+## 🚀 What I'm Building
 
-🎓 **Education**: I'm currently studying at ITS Academy Tech Talent Factory in Milan.
+🌌 **[Solyris](link-if-public)** - Astronomy AR application with microservices backend, AI integration, and real-time celestial data processing  
+🔐 **[Portal](link-if-public)** - Secure ephemeral file-sharing SaaS with multi-tenant architecture and auto-destruct functionality  
 
-🌍 **Location**: I'm in Como, Italy, but you’ll find me moving around quite a bit!
+## 💻 Tech Stack
 
-🚀 **Goals**:  I just want to keep learning, building cool stuff, and getting better at what I do—always up for new tech and fresh challenges!
-
-🔍 **What I'm Looking For**: I’m always up for joining cool projects, learning from new challenges, and growing with awesome people. Let’s connect if you want to collaborate or just share ideas!
-
-## 🛠️ Technical Skills:
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+**Backend & Architecture**  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 📊 GitHub Stats:
+**Data & Messaging**  
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Frontend**  
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+## 🎓 Background
+
+**ITS Academy Tech Talent Factory** - Backend Development for Smart Technologies (2023-2025)  
+Intensive 2,000-hour program with real-world internships at EvenFi (AI SaaS) and Refactormi (API monitoring)
+
+## 🌍 Let's Connect
+
+📧 Email: damir.douglas.dev@gmail.com  
+🌐 Portfolio: [damirdouglas.dev](https://damirdouglas.dev)  
+💼 LinkedIn: [damirdouglasdeveloper](https://linkedin.com/in/damirdouglasdeveloper)  
+📍 Based in Northern Italy • Open to remote & relocation worldwide
+
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=letDouglas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=letDouglas&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=letDouglas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=letDouglas&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ![snake gif](https://github.com/letDouglas/letDouglas/blob/output/github-snake-dark.svg)
 
-
-
-
-
+---
