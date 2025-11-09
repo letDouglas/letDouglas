@@ -1,3 +1,33 @@
+```java
+public class WhoAmI {
+    private String name = "Damir Douglas";
+    private String location = "Como, Italy 🇮🇹";
+    private String email = "damir.douglas.dev@gmail.com";
+    private String portfolio = "damirdouglas.dev";
+    
+    private List<String> technologies = Arrays.asList(
+        "Java", "Spring Boot", "Microservices",
+        "PostgreSQL", "Docker", "Kafka", "Redis"
+    );
+    
+    private List<String> currentFocus = Arrays.asList(
+        "AI-powered applications",
+        "Event-driven architecture",
+        "Scalable backend systems"
+    );
+    
+    private List<String> hobbies = Arrays.asList(
+        "Astronomy", "Music production", 
+        "Electronics", "Soccer", "Powerlifting"
+    );
+    
+    public String myAmbition() {
+        return "I'm a dreamer focused on turning ideas into reality, " +
+               "always ready to grow and take on new challenges.";
+    }
+}
+```
+
 <table align="center">
   <tr>
     <td align="center">
