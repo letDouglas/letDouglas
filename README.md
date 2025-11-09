@@ -1,34 +1,3 @@
-```java
-public class WhoAmI {
-    private String name = "Damir Douglas";
-    private String location = "Como, Italy 🇮🇹";
-    private String email = "damir.douglas.dev@gmail.com";
-    private String portfolio = "damirdouglas.dev";
-    
-    private List technologies = Arrays.asList(
-        "Java", "Spring Boot", "Microservices",
-        "PostgreSQL", "Docker", "Kafka", "Redis"
-    );
-    
-    private List currentFocus = Arrays.asList(
-        "AI-powered applications",
-        "Event-driven architecture",
-        "Scalable backend systems"
-    );
-    
-    private List hobbies = Arrays.asList(
-        "Astronomy", "Music production", 
-        "Electronics", "Soccer", "Powerlifting"
-    );
-    
-    public String myAmbition() {
-    return "I'm a dreamer focused on turning ideas into reality, " +
-           "always ready to grow and take on new challenges.";
-    }
-}
-```
-
-
 <table align="center">
   <tr>
     <td align="center">
@@ -38,14 +7,11 @@ public class WhoAmI {
 </table>
 
 # 💫 About Me
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Backend+Developer;Microservices+Architect;Building+AI-Powered+Apps)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Backend+Developer;Microservices+Enthusiast;Building+Cool+Stuff)
 
-👋 Hey! I'm **Damir**, a backend developer specializing in **Java microservices** and **scalable systems**. I build production-ready applications with clean architecture, event-driven design, and security in mind.
+👋 Hey! I'm **Damir**, a backend developer who loves building **scalable systems** with **Java** and **Spring Boot**. Passionate about clean architecture, microservices, and experimenting with new tech.
 
-## 🚀 What I'm Building
-
-🌌 **[Solyris](link-if-public)** - Astronomy AR application with microservices backend, AI integration, and real-time celestial data processing  
-🔐 **[Portal](link-if-public)** - Secure ephemeral file-sharing SaaS with multi-tenant architecture and auto-destruct functionality  
+🌌 Currently exploring **AI integration**, **event-driven architectures**, and **real-time data processing**.
 
 ## 💻 Tech Stack
 
@@ -73,17 +39,13 @@ public class WhoAmI {
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## 🎓 Background
-
-**ITS Academy Tech Talent Factory** - Backend Development for Smart Technologies (2023-2025)  
-Intensive 2,000-hour program with real-world internships at EvenFi (AI SaaS) and Refactormi (API monitoring)
-
 ## 🌍 Let's Connect
 
-📧 Email: damir.douglas.dev@gmail.com  
-🌐 Portfolio: [damirdouglas.dev](https://damirdouglas.dev)  
-💼 LinkedIn: [damirdouglasdeveloper](https://linkedin.com/in/damirdouglasdeveloper)  
-📍 Based in Northern Italy • Open to remote & relocation worldwide
+📧 damir.douglas.dev@gmail.com  
+🌐 [damirdouglas.dev](https://damirdouglas.dev)  
+💼 [LinkedIn](https://linkedin.com/in/damirdouglasdeveloper)  
+
+💡 Open to collaborate and contribute to interesting projects!
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=letDouglas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
@@ -91,5 +53,3 @@ Intensive 2,000-hour program with real-world internships at EvenFi (AI SaaS) and
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=letDouglas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![snake gif](https://github.com/letDouglas/letDouglas/blob/output/github-snake-dark.svg)
-
----
