@@ -1,64 +1,64 @@
-# Hi, I'm Damir Borsetti 🏔️
+# Hey, I'm Damir 👋
 
-### **Platform & DevOps Engineer**
-I design and operate cloud-native infrastructure that is **automated**, **observable**, and **self-healing**.
+### **Cloud & Platform Engineer — Independent Contractor**
 
-Transitioning from a solid **Backend Engineering** background (Java/Spring Boot) to **Platform Engineering**, I bridge the gap between application code and infrastructure. My focus is on building "Glass Box" systems where logs, metrics, and traces are correlated to ensure maximum reliability.
+I partner with enterprise clients to design, automate, and scale cloud-native infrastructure —
+from Zero-Trust security and GitOps automation to FinOps cost optimization and resilience engineering.
 
----
-
-### 🚀 **Engineering Portfolio: [YAMAR](https://github.com/letDouglas/yamar)**
-*Current Focus | Production-Grade Microservices Ecosystem*
-
-I built **Yamar** to demonstrate a full enterprise-ready platform. It is not just a demo, but a complex distributed system orchestrated on **Kubernetes** and **Red Hat OpenShift**.
-
-*   **☁️ Orchestration:** Deployed on **OpenShift** using native **S2I (Source-to-Image)** pipelines and **Kubernetes** via **Helm Charts**.
-*   **👁️ Observability:** Implemented a full **OTLP** stack (Prometheus, Grafana, Tempo) for distributed tracing and log correlation.
-*   **⚙️ Automation:** Zero-touch deployments using **GitOps** principles (ArgoCD) and automated **GitHub Actions** workflows.
-*   **🔄 Event-Driven:** Asynchronous communication backbone using **Apache Kafka** and **Avro Schemas**.
+Currently holding: **Gremlin Certified Chaos Engineering Practitioner** · **CKA in progress**
 
 ---
 
-### 🛠️ **Technical Stack**
+### 🛠️ Stack
 
-**Cloud & Orchestration**
+**Cloud & Kubernetes**
+
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![OpenShift](https://img.shields.io/badge/openshift-%23EE0000.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-**Infrastructure as Code & GitOps**
+**IaC & GitOps**
+
 ![Terraform](https://img.shields.io/badge/terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Helm](https://img.shields.io/badge/HELM-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ARGOCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Observability**
+**Zero-Trust & Security**
+
+![Vault](https://img.shields.io/badge/Vault-%23000000.svg?style=for-the-badge&logo=vault&logoColor=white)
+![Cilium](https://img.shields.io/badge/Cilium-%23F8C517.svg?style=for-the-badge&logo=cilium&logoColor=black)
+
+**Resilience & Observability**
+
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-%236368DF.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
-**Backend Core (The Foundation)**
+**Also write code in**
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
-### ⚡ **What I'm Engineering Now**
-- Expanding **AWS** infrastructure automation (VPC, EC2, RDS) using **Terraform**.
-- Implementing advanced **GitOps** workflows for multi-environment synchronization.
-- Writing custom **Kubernetes Operators** (learning phase) to automate stateful workloads.
+### ⚡ Currently building
+
+- **Aether** — multi-cluster AI infrastructure platform: Cluster API + vcluster + Vault + MLflow + Ollama + MCP Server
+- **CKA** prep — deep-diving Kubernetes internals
 
 ---
 
-### 📬 **Connect**
+### 📬 Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/damirdouglasdeveloper)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://damirdouglas.dev)
 
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=letDouglas&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
 ![Snake Animation](https://raw.githubusercontent.com/letDouglas/letDouglas/output/github-snake-dark.svg)
